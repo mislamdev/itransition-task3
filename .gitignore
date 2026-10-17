@@ -1,0 +1,17 @@
+/.bundle
+/log/*
+!/log/.keep
+/tmp/*
+!/tmp/.keep
+/storage/*
+!/storage/.keep
+.env*
+!.env.example
+/.kamal/secrets
+/node_modules
+/coverage
+/test/tmp
+/test/coverage
+.DS_Store
+/config/master.key
+/config/credentials.yml.enc
